@@ -4,4 +4,7 @@
   <artifactId>Java-Thread</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>Java-thread-part1</module>
+  </modules>
 </project>
